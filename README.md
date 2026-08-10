@@ -1,2 +1,2 @@
-- 👋Hi ,I am panadharikrushna nice to meet you<br>
+- 👋Hi ,I am <b>Panad Harikrushna</b> nice to meet you<br>
 ---<b>How can I help you</b>---
